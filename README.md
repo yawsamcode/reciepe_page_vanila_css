@@ -1,0 +1,1 @@
+# reciepe_page_vanila_css
